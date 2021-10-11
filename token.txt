@@ -26,7 +26,10 @@ pankhri ek gulab ki c hai
 
 
    code for conflict
-   -==========================================================
-   Code from Bash
 
+
+
+-------------------------------------------------
+Code for the day
+code from second branch
 
