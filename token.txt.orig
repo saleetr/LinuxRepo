@@ -1,6 +1,6 @@
 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
 
-Entry form top
+
 At last seems Working. Mah
 wong entry
 
@@ -26,21 +26,14 @@ pankhri ek gulab ki c hai
 
 
    code for conflict
+<<<<<<< HEAD
+   -==========================================================
+   Code from Bash
 
 
+=======
 
 -------------------------------------------------
 Code for the day
 code from second branch
-
-
-
-
----------------------------------------------------
-one more try
-
-
-
-
-
-
+>>>>>>> 52e2f5b6f9e93f8050b292bfc766587f6e18f352
